@@ -10,4 +10,5 @@ AI is based on maximize cumulative values on game board. The values are gained b
 AI's weekness:
 
 AI only look ahead once! (self best - opponent best *0.999999)
+
 AI assumes infinite board size!
